@@ -36,7 +36,9 @@ This Power BI dashboard provides a detailed analysis of household electricity co
 **Mohammed Ahmed Haj Mustafa**  
 Power BI Developer & Data Analyst  
 📧 mh.mustafa@outlook.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) *(Insert your link here)*
+🔗 [LinkedIn Profile](https://www.linkedin.com/) *((https://www.linkedin.com/posts/%C2%AEmohammed-mostafa-pmp-a7440932_dataanalytics-powerbi-selflearning-activity-7345556914069516288-MOPq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbS0rgBu9YJc-dQbgdyWAGTRkaIJcoCkHY))*
+
+🔗 Power BI Link : https://app.powerbi.com/links/ssTJz2feuG?ctid=8fcf4cd9-2fe4-4571-8431-b17c3f29efb3&pbi_source=linkShare&bookmarkGuid=14aeecde-2d63-49cc-943d-263d3692f6fd
 
 ---
 
